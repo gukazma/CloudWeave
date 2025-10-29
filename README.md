@@ -5,8 +5,6 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![C++](https://img.shields.io/badge/C++-17%2B-orange)](https://isocpp.org/)
-[![Build](https://github.com/your-username/CloudWeave/actions/workflows/build.yml/badge.svg)](https://github.com/your-username/CloudWeave/actions)
-
 ---
 
 ## 🌐 Overview
